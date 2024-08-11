@@ -9,9 +9,6 @@
 
 <!--
 **Atharv7901/Atharv7901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/Atharv7901/Basic-LoginPage-FireBaseIN/master/github_stats.svg"
-</p>
 
 Here are some ideas to get you started:
 
